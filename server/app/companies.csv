@@ -1,0 +1,413 @@
+id,name,ticker
+1,Facebook,FB
+2,Amazon,AMZN
+3,Slack,WORK
+4,"JPMorgan Chase & Co.",JPM
+5,"Verizon Communications Inc.",VZ
+6,"Intel Corporation",INTC
+7,"Comcast Corporation Class A",CMCSA
+8,"Pfizer Inc.",PFE
+9,"Merck & Co. Inc.",MRK
+10,"AT&T Inc.",T
+11,"Coca-Cola Company",KO
+12,"Bank of America Corp",BAC
+13,"Cisco Systems Inc.",CSCO
+14,"AbbVie Inc.",ABBV
+15,"Exxon Mobil Corporation",XOM
+16,"Chevron Corporation",CVX
+17,"Bristol-Myers Squibb Company",BMY
+18,"Philip Morris International Inc.",PM
+19,"Oracle Corporation",ORCL
+20,"Starbucks Corporation",SBUX
+21,"Wells Fargo & Company",WFC
+22,"Advanced Micro Devices Inc.",AMD
+23,"Citigroup Inc.",C
+24,"Raytheon Technologies Corporation",RTX
+25,"Mondelez International Inc. Class A",MDLZ
+26,"Gilead Sciences Inc.",GILD
+27,"CVS Health Corporation",CVS
+28,"Altria Group Inc",MO
+29,"TJX Companies Inc",TJX
+30,"Morgan Stanley",MS
+31,"Dominion Energy Inc",D
+32,"Duke Energy Corporation",DUK
+33,"Colgate-Palmolive Company",CL
+34,"Southern Company",SO
+35,"Activision Blizzard Inc.",ATVI
+36,"CSX Corporation",CSX
+37,"General Electric Company",GE
+38,"Boston Scientific Corporation",BSX
+39,"Truist Financial Corporation",TFC
+40,"Applied Materials Inc.",AMAT
+41,"Charles Schwab Corporation",SCHW
+42,"Micron Technology Inc.",MU
+43,"U.S. Bancorp",USB
+44,"Edwards Lifesciences Corporation",EW
+45,"Newmont Corporation",NEM
+46,"American Electric Power Company",AEP
+47,"DuPont de Nemours Inc.",DD
+48,"Emerson Electric Co.",EMR
+49,"General Motors Company",GM
+50,"Baxter International Inc.",BAX
+51,"Cognizant Technology Solutions Corporation Class A",CTSH
+52,"Xcel Energy Inc.",XEL
+53,"Exelon Corporation",EXC
+54,ConocoPhillips,COP
+55,"General Mills Inc.",GIS
+56,"Centene Corporation",CNC
+57,"eBay Inc.",EBAY
+58,"Dow Inc.",DOW
+59,"Capital One Financial Corporation",COF
+60,"Twitter Inc.",TWTR
+61,"Ross Stores Inc.",ROST
+62,"Sysco Corporation",SYY
+63,"Johnson Control International plc",JCI
+64,"WEC Energy Group Inc",WEC
+65,"Eversource Energy",ES
+66,"PACCAR Inc",PCAR
+67,"Bank of New York Mellon Corporation",BK
+68,"MetLife Inc.",MET
+69,"Monster Beverage Corporation",MNST
+70,"Ball Corporation",BLL
+71,"IHS Markit Ltd.",INFO
+72,"Allstate Corporation",ALL
+73,"Public Service Enterprise Group Inc",PEG
+74,"Yum! Brands Inc.",YUM
+75,"Ford Motor Company",F
+76,"Consolidated Edison Inc.",ED
+77,"Archer-Daniels-Midland Company",ADM
+78,"Prudential Financial Inc.",PRU
+79,"Kroger Co.",KR
+80,"HP Inc.",HP
+81,"Fastenal Company",FAST
+82,"Aptiv PLC",APTV
+83,"Corning Inc",GLW
+84,"Otis Worldwide Corporation",OTIS
+85,"Paychex Inc.",PAYX
+86,"Carrier Global Corp.",CARR
+87,"Walgreens Boots Alliance Inc",WBA
+88,"D.R. Horton Inc.",DHI
+89,"American International Group Inc.",AIG
+90,"Hilton Worldwide Holdings Inc",HLT
+91,"Aflac Incorporated",AFL
+92,"Corteva Inc",CTVA
+93,"Freeport-McMorRan Inc.",FCX
+94,"V.F. Corporation",VFC
+95,"Kinder Morgan Inc Class P",KMI
+96,"Welltower Inc.",WELL
+97,"Fortive Corp.",FTV
+98,"State Street Corporation",STT
+99,"Southwest Airlines Co.",LUV
+100,"Williams Companies Inc.",WMB
+101,"Phillips 66",PSX
+102,"Lennar Corporation Class A",LEN
+103,"Penn Natl Gaming Inc",PENN
+104,"Caesars Entertainment Inc",CZR
+105,"Sunrun Inc",RUN
+106,"Plug Power Inc",PLUG
+107,"Brookfield Renewable Corp",BEPC
+108,"Invitae Corp",NVTA
+109,"Darling International Inc",DAR
+110,"Clearway Energy Inc CL C",CWEN
+111,"Natera Inc",NTRA
+112,"Allogene Therapeutics Inc",ALLO
+113,"Ultragenyx Pharaceu",RARE
+114,"BJ's Wholesale Club Holdings Inc",BJ
+115,"Blackline Inc",BL
+116,"Redfin Corp",RDFN
+117,"Darling Ingredients Inc",DAR
+118,"Bjs Wholesale Club Holdings Inc",BJ
+119,"Performance Food Group",PFGC
+120,"Stag Industrial Reit Inc",STAG
+121,"Ii Vi Inc",IIVI
+122,"Lattice Semiconductor Corp",LSCC
+123,"Essent Group Ltd",ESNT
+124,"Amicus Therapeutics Inc",FOLD
+125,"Neogenomics Inc",NEO
+126,"Halozyme Therapeutics Inc",HALO
+127,"Healthcare Realty Trust Reit Inc",HR
+128,"First Financial Bankshares Inc",FFIN
+129,"Sailpoint Technologies Holdings In",SAIL
+130,"Rexnord Corp",RXN
+131,"Wright Medical Group Nv",WMGI
+132,"Fibrogen Inc",FGEN
+133,"Insmed Inc",INSM
+134,"Builders Firstsource Inc",BLDR
+135,"Physicians Realty Trust Reit",DOC
+136,"Aci Worldwide Inc",ACIW
+137,"Portland General Electric",POR
+138,"Brooks Automation Inc",BRKS
+139,"Kbr Inc",KBR
+140,"Louisiana Pacific Corp",LPX
+141,"Glacier Bancorp Inc",GBCI
+142,"National Vision Holdings Inc",EYE
+143,"Fate Therapeutics Inc",FATE
+144,"Cannae Holdings Inc",CNNE
+145,"Radian Group Inc",RDN
+146,"Cleveland Cliffs Inc",CLF
+147,"Hannon Armstrong Sustainable Infra",HASI
+148,"Kb Home",KBH
+149,"United Bankshares Inc",UBSI
+150,"Valley National",VLY
+151,"Bed Bath And Beyond Inc",BBBY
+152,"Iridium Communications Inc",IRDM
+153,"Potlatchdeltic Corp",PCH
+154,"Taylor Morrison Home Corp",TMHC
+155,"Tg Therapeutics Inc",TGTX
+156,"Viavi Solutions Inc",VIAV
+157,"Blackstone Mortgage Trust Reit Cla",BXMT
+158,"Avient Corp",AVNT
+159,"Willscot Mobile Mini Holdings Corp",WSC
+160,"Cit Group Inc",CIT
+161,"Bridgebio Pharma Inc",BBIO
+162,"Tenet Healthcare Corp",THC
+163,"Lexington Realty Trust Reit",LXP
+164,"Sabra Health Care Reit Inc",SBRA
+165,"Tegna Inc",TGNA
+166,"Svmk Inc",SVMK
+167,"Kennametal Inc",KMT
+168,"Bmc Stock Holdings Inc",BMCH
+169,"Boyd Gaming Corp",BYD
+170,"New Jersey Resources Corp",NJR
+171,"Mastec Inc",MTZ
+172,"Aerojet Rocketdyne Holdings Inc",AJRD
+173,"Hecla Mining",HL
+174,"Digital Turbine Inc",APPS
+175,"Perspecta Inc",PRSP
+176,"Cno Financial Group Inc",CNO
+177,"Covetrus Inc",CVET
+178,"Home Bancshares Inc",HOMB
+179,"Altra Industrial Motion Corp",AIMC
+180,"Merit Medical Systems Inc",MMSI
+181,"Ovintiv Inc",OVV
+182,"Tenable Holdings Inc",TENB
+183,"Kratos Defense And Security Soluti",KTOS
+184,"Denali Therapeutics Inc",DNLI
+185,"Cnx Resources Corp",CNX
+186,"Hb Fuller",FUL
+187,"Alcoa Corp",AA
+188,"Commercial Metals",CMC
+189,"Werner Enterprises Inc",WERN
+190,"Vonage Holdings Corp",VG
+191,"Novagold Resources Inc",NG
+192,"1Life Healthcare Inc",ONEM
+193,"Select Medical Holdings Corp",SEM
+194,"Mimecast Ltd",MIME
+195,"Bankunited Inc",BKU
+196,"American Equity Investment Life Ho",AEL
+197,"Goodyear Tire & Rubber",GT
+198,"Artisan Partners Asset Management",APAM
+199,Bancorpsouth,BXS
+200,"Old National Bancorp",ONB
+201,"Federated Hermes Inc Class B",FHI
+202,"Hms Holdings Corp",HMSY
+203,"Cvb Financial Corp",CVBF
+204,"Cornerstone Ondemand Inc",CSOD
+205,"Arcosa Inc",ACA
+206,"California Water Service Group",CWT
+207,"Arconic Corp",ARNC
+208,"Clearway Energy Inc Class C",CWEN
+209,"Vishay Intertechnology Inc",VSH
+210,"Abm Industries Inc",ABM
+211,"Mdc Holdings Inc",MDC
+212,"Hillenbrand Inc",HI
+213,Brinks,BCO
+214,"Avista Corp",AVA
+215,"National General Holdings Corp",NGHC
+216,"Formfactor Inc",FORM
+217,"Dana Incorporated Inc",DAN
+218,"Patterson Companies Inc",PDCO
+219,"Pacific Biosciences Of California",PACB
+220,"Box Inc Class A",BOX
+221,"Summit Materials Inc Class A",SUM
+222,"Wolverine World Wide Inc",WWW
+223,"Veracyte Inc",VCYT
+224,"Advanced Disposal Services Inc",ADSW
+225,"Wesco International Inc",WCC
+226,"Triton International Ltd",TRTN
+227,"Xencor Inc",XNCR
+228,"Tri Pointe Group Inc",TPH
+229,"American Eagle Outfitters Inc",AEO
+230,"Evertec Inc",EVTC
+231,"Primo Water Corp",PRMW
+232,"Shenandoah Telecommunications",SHEN
+233,"Evoqua Water Technologies Corp",AQUA
+234,"Navistar International Corp",NAV
+235,"Ryman Hospitality Properties Reit",RHP
+236,"Api Group Corp",APG
+237,"Macys Inc",M
+238,"National Storage Affiliates Trust",NSA
+239,"Hancock Whitney Corp",HWC
+240,"Cloudera Inc",CLDR
+241,"Pacfic Premier Bancorp Inc",PPBI
+242,"S Jersey Inds Inc",SJI
+243,"Texas Capital Bancshares Inc",TCBI
+244,"Adient Plc",ADNT
+245,"Brinker International Inc",EAT
+246,"Apellis Pharmaceuticals Inc",APLS
+247,"Moelis Class A",MC
+248,"Us Steel Corp",X
+249,"Editas Medicine Inc",EDIT
+250,"Atlantic Union Bankshares Corp",AUB
+251,"Range Resources Corp",RRC
+252,"Avis Budget Group Inc",CAR
+253,"Vir Biotechnology Inc",VIR
+254,"Hilton Grand Vacations Inc",HGV
+255,"Columbia Banking System Inc",COLB
+256,"Herman Miller Inc",MLHR
+257,"Inovalon Holdings Inc Class A",INOV
+258,"Spx Flow Inc",FLOW
+259,"Nmi Holdings Inc Class A",NMIH
+260,"Scientific Games Corp",SGMS
+261,"Stitch Fix Inc Class A",SFIX
+262,"Four Corners Property Inc Trust",FCPT
+263,"Altair Engineering Inc Class A",ALTR
+264,"Beacon Roofing Supply Inc",BECN
+265,"Brady Nonvoting Corp Class A",BRC
+266,"Ameris Bancorp",ABCB
+267,"Uniti Group Inc",UNIT
+268,"Steven Madden Ltd",SHOO
+269,"Kar Auction Services Inc",KAR
+270,"Workhorse Group Inc",WKHS
+271,"Barnes Group Inc",B
+272,"Coeur Mining Inc",CDE
+273,"Simmons First National Corp Class",SFNC
+274,"Genworth Financial A Inc",GNW
+275,"Southwestern Energy",SWN
+276,"Callaway Golf",ELY
+277,"Federal Signal Corp",FSS
+278,"Bottomline Technologies Inc",EPAY
+279,"Investors Bancorp Inc",ISBC
+280,"Servisfirst Bancshares Inc",SFBS
+281,"Cooper Tire And Rubber",CTB
+282,"R1 Rcm Inc",RCM
+283,"Upwork Inc",UPWK
+284,"Sorrento Therapeutics Inc",SRNE
+285,"Terex Corp",TEX
+286,"Cathay General Bancorp",CATY
+287,"Avanos Medical Inc",AVNS
+288,"Korn Ferry",KFY
+289,"Allscripts Healthcare Solutions In",MDRX
+290,"The Simply Good Foods Company",SMPL
+291,"Yext Inc",YEXT
+292,"Maxar Technologies Inc",MAXR
+293,"Fulton Financial Corp",FULT
+294,"Healthcare Services Inc",HCSG
+295,"Cargurus Inc Class A",CARG
+296,"B And G Foods Inc",BGS
+297,"Maxlinear Inc",MXL
+298,"Meritor Inc",MTOR
+299,"Easterly Government Properties Inc",DEA
+300,"Sunstone Hotel Investors Reit Inc",SHO
+301,"Navient Corp",NAVI
+302,"Prestige Consumer Healthcare Inc",PBH
+303,"Inovio Pharmaceuticals Inc",INO
+304,"Mueller Water Products Inc Series",MWA
+305,"Progress Software Corp",PRGS
+306,"Sanmina Corp",SANM
+307,"Commvault Systems Inc",CVLT
+308,"Pra Group Inc",PRAA
+309,"8X8 Inc",EGHT
+310,"Essential Properties Realty Trust",EPRT
+311,"Pebblebrook Hotel Trust Reit",PEB
+312,"Washington Federal Inc",WAFD
+313,"Urban Outfitters Inc",URBN
+314,"Kennedy Wilson Holdings Inc",KW
+315,"Air Transport Services Group Inc",ATSG
+316,"Caretrust Reit Inc",CTRE
+317,"United Community Banks Inc",UCBI
+318,"Corcept Therapeutics Inc",CORT
+319,"O I Glass Inc",OI
+320,"Opko Health Inc",OPK
+321,"Atricure Inc",ATRC
+322,"Mr Cooper Group Inc",COOP
+323,"Macom Technology Solutions Inc",MTSI
+324,"Intra Cellular Therapies Inc",ITCI
+325,"Fitbit Inc Class A",FIT
+326,"Fluor Corp",FLR
+327,"Chimera Investment Corp",CIM
+328,"Kontoor Brands Inc",KTB
+329,"Mueller Industries Inc",MLI
+330,"Piedmont Office Realty Trust Reit",PDM
+331,"Hostess Brands Inc Class A",TWNK
+332,"Otter Tail Corp",OTTR
+333,"Onto Innovation Inc",ONTO
+334,"Liberty Latin America Ltd Class C",LILAK
+335,"Axos Financial Inc",AX
+336,"Wesbanco Inc",WSBC
+337,"Skywest Inc",SKYW
+338,"Hilltop Holdings Inc",HTH
+339,"Rambus Inc",RMBS
+340,"La-Z-Boy Inc",LZB
+341,"Jeld Wen Holding Inc",JELD
+342,"Pennymac Mortgage Investment Trust",PMT
+343,"Netscout Systems Inc",NTCT
+344,"Wsfs Financial Corp",WSFS
+345,"Spirit Airlines Inc",SAVE
+346,"Championx Corp",CHX
+347,"Renasant Corp",RNST
+348,"Livent Corp",LTHM
+349,"Bloomin Brands Inc",BLMN
+350,"Rent-A-Center Inc",RCII
+351,"Washington Real Estate Investment",WRE
+352,"Hni Corp",HNI
+353,"First Interstate Bancsystem Inc Cl",FIBK
+354,"International Bancshares Corp",IBOC
+355,"Belden Inc",BDC
+356,"Avaya Holdings Corp",AVYA
+357,"Kura Oncology Inc",KURA
+358,"Owens & Minor Inc",OMI
+359,"Capitol Federal Financial Inc",CFFN
+360,"Edgewell Personal Care",EPC
+361,"Horace Mann Educators Corp",HMN
+362,"Gentherm Inc",THRM
+363,"Trustmark Corp",TRMK
+364,"Revolution Medicines Inc",RVMD
+365,"Colony Capital Inc Class A",CLNY
+366,"Cadence Bancorporation Class A",CADE
+367,"Boise Cascade",BCC
+368,"Ironwood Pharma Inc Class A",IRWD
+369,"Seres Therapeutics Inc",MCRB
+370,"Yelp Inc",YELP
+371,"Rush Enterprises Inc Class A",RUSHA
+372,"Revance Therapeutics Inc",RVNC
+373,"First Bancorp",FBP
+374,"Monro Inc",MNRO
+375,"Bloom Energy Class A Corp",BE
+376,"Domtar Corp",UFS
+377,"Cardiovascular Systems Inc",CSII
+378,"Laureate Education Inc Class A",LAUR
+379,"Rlj Lodging Trust Reit",RLJ
+380,"Cryoport Inc",CYRX
+381,"Axonics Modulation Technologies In",AXNX
+382,"First Financial Bancorp",FFBC
+383,"Perficient Inc",PRFT
+384,"Central Garden And Pet Class A",CENTA
+385,"Immunovant Inc",IMVT
+386,"World Fuel Services Corp",INT
+387,"Two Harbors Investment Reit Corp",TWO
+388,"First Midwest Bancorp Inc",FMBI
+389,"Heron Therapeutics Inc",HRTX
+390,"Knowles Corp",KN
+391,"Northwest Natural Holding Company",NWN
+392,"Adtalem Global Education Inc",ATGE
+393,"Industrial Logistics Properties Tr",ILPT
+394,"Vector Group Ltd",VGR
+395,"First Merchants Corp",FRME
+396,"Biotelemetry Inc",BEAT
+397,"Bank Of Nt Butterfield & Son Ltd",NTB
+398,"Repay Holdings Corp Class A",RPAY
+399,"Global Net Lease Inc",GNL
+400,"Sunnova Energy International Inc",NOVA
+401,"Sykes Enterprises Inc",SYKE
+402,"Cheesecake Factory Inc",CAKE
+403,"Verra Mobility Corp Class A",VRRM
+404,"Monmouth Real Estate Investment Re",MNR
+405,"Nic Inc",EGOV
+406,"Nanostring Technologies Inc",NSTG
+407,"Flagstar Bancorp Inc",FBC
+408,"Service Properties Trust",SVC
+409,"Calix Networks Inc",CALX
+410,"Ltc Properties Reit Inc",LTC
+411,"Helios Technologies Inc",HLIO
+412,"Skyline Champion Corp",SKY

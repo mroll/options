@@ -1,0 +1,300 @@
+DAR,Darling Ingredients Inc
+BJ,Bjs Wholesale Club Holdings Inc
+NVTA,Invitae Corp
+PLUG,Plug Power Inc
+PFGC,Performance Food Group
+STAG,Stag Industrial Reit Inc
+IIVI,Ii Vi Inc
+LSCC,Lattice Semiconductor Corp
+ESNT,Essent Group Ltd
+FOLD,Amicus Therapeutics Inc
+RDFN,Redfin Corp
+NEO,Neogenomics Inc
+HALO,Halozyme Therapeutics Inc
+HR,Healthcare Realty Trust Reit Inc
+FFIN,First Financial Bankshares Inc
+SAIL,Sailpoint Technologies Holdings In
+RXN,Rexnord Corp
+WMGI,Wright Medical Group Nv
+FGEN,Fibrogen Inc
+INSM,Insmed Inc
+BLDR,Builders Firstsource Inc
+DOC,Physicians Realty Trust Reit
+ACIW,Aci Worldwide Inc
+POR,Portland General Electric
+BRKS,Brooks Automation Inc
+KBR,Kbr Inc
+LPX,Louisiana Pacific Corp
+GBCI,Glacier Bancorp Inc
+EYE,National Vision Holdings Inc
+FATE,Fate Therapeutics Inc
+CNNE,Cannae Holdings Inc
+RDN,Radian Group Inc
+CLF,Cleveland Cliffs Inc
+HASI,Hannon Armstrong Sustainable Infra
+KBH,Kb Home
+UBSI,United Bankshares Inc
+VLY,Valley National
+BBBY,Bed Bath And Beyond Inc
+IRDM,Iridium Communications Inc
+PCH,Potlatchdeltic Corp
+TMHC,Taylor Morrison Home Corp
+TGTX,Tg Therapeutics Inc
+VIAV,Viavi Solutions Inc
+BXMT,Blackstone Mortgage Trust Reit Cla
+AVNT,Avient Corp
+WSC,Willscot Mobile Mini Holdings Corp
+CIT,Cit Group Inc
+BBIO,Bridgebio Pharma Inc
+THC,Tenet Healthcare Corp
+LXP,Lexington Realty Trust Reit
+SBRA,Sabra Health Care Reit Inc
+TGNA,Tegna Inc
+SVMK,Svmk Inc
+KMT,Kennametal Inc
+BMCH,Bmc Stock Holdings Inc
+BYD,Boyd Gaming Corp
+NJR,New Jersey Resources Corp
+MTZ,Mastec Inc
+AJRD,Aerojet Rocketdyne Holdings Inc
+HL,Hecla Mining
+APPS,Digital Turbine Inc
+PRSP,Perspecta Inc
+CNO,Cno Financial Group Inc
+CVET,Covetrus Inc
+HOMB,Home Bancshares Inc
+AIMC,Altra Industrial Motion Corp
+MMSI,Merit Medical Systems Inc
+OVV,Ovintiv Inc
+TENB,Tenable Holdings Inc
+KTOS,Kratos Defense And Security Soluti
+DNLI,Denali Therapeutics Inc
+CNX,Cnx Resources Corp
+FUL,Hb Fuller
+AA,Alcoa Corp
+CMC,Commercial Metals
+WERN,Werner Enterprises Inc
+VG,Vonage Holdings Corp
+NG,Novagold Resources Inc
+ONEM,1Life Healthcare Inc
+SEM,Select Medical Holdings Corp
+MIME,Mimecast Ltd
+BKU,Bankunited Inc
+AEL,American Equity Investment Life Ho
+GT,Goodyear Tire & Rubber
+APAM,Artisan Partners Asset Management
+BXS,Bancorpsouth
+ONB,Old National Bancorp
+FHI,Federated Hermes Inc Class B
+HMSY,Hms Holdings Corp
+CVBF,Cvb Financial Corp
+CSOD,Cornerstone Ondemand Inc
+ACA,Arcosa Inc
+CWT,California Water Service Group
+ARNC,Arconic Corp
+CWEN,Clearway Energy Inc Class C
+VSH,Vishay Intertechnology Inc
+ABM,Abm Industries Inc
+MDC,Mdc Holdings Inc
+HI,Hillenbrand Inc
+BCO,Brinks
+AVA,Avista Corp
+NGHC,National General Holdings Corp
+FORM,Formfactor Inc
+DAN,Dana Incorporated Inc
+PDCO,Patterson Companies Inc
+PACB,Pacific Biosciences Of California
+BOX,Box Inc Class A
+SUM,Summit Materials Inc Class A
+WWW,Wolverine World Wide Inc
+VCYT,Veracyte Inc
+ADSW,Advanced Disposal Services Inc
+WCC,Wesco International Inc
+TRTN,Triton International Ltd
+XNCR,Xencor Inc
+TPH,Tri Pointe Group Inc
+AEO,American Eagle Outfitters Inc
+EVTC,Evertec Inc
+PRMW,Primo Water Corp
+SHEN,Shenandoah Telecommunications
+AQUA,Evoqua Water Technologies Corp
+NAV,Navistar International Corp
+RHP,Ryman Hospitality Properties Reit
+APG,Api Group Corp
+M,Macys Inc
+NSA,National Storage Affiliates Trust
+HWC,Hancock Whitney Corp
+CLDR,Cloudera Inc
+PPBI,Pacfic Premier Bancorp Inc
+SJI,S Jersey Inds Inc
+TCBI,Texas Capital Bancshares Inc
+ADNT,Adient Plc
+EAT,Brinker International Inc
+APLS,Apellis Pharmaceuticals Inc
+MC,Moelis Class A
+X,Us Steel Corp
+EDIT,Editas Medicine Inc
+AUB,Atlantic Union Bankshares Corp
+RRC,Range Resources Corp
+CAR,Avis Budget Group Inc
+VIR,Vir Biotechnology Inc
+HGV,Hilton Grand Vacations Inc
+COLB,Columbia Banking System Inc
+MLHR,Herman Miller Inc
+INOV,Inovalon Holdings Inc Class A
+FLOW,Spx Flow Inc
+NMIH,Nmi Holdings Inc Class A
+SGMS,Scientific Games Corp
+SFIX,Stitch Fix Inc Class A
+FCPT,Four Corners Property Inc Trust
+ALTR,Altair Engineering Inc Class A
+BECN,Beacon Roofing Supply Inc
+BRC,Brady Nonvoting Corp Class A
+ABCB,Ameris Bancorp
+UNIT,Uniti Group Inc
+SHOO,Steven Madden Ltd
+KAR,Kar Auction Services Inc
+WKHS,Workhorse Group Inc
+B,Barnes Group Inc
+CDE,Coeur Mining Inc
+ALLO,Allogene Therapeutics Inc
+SFNC,Simmons First National Corp Class
+GNW,Genworth Financial A Inc
+SWN,Southwestern Energy
+ELY,Callaway Golf
+FSS,Federal Signal Corp
+EPAY,Bottomline Technologies Inc
+ISBC,Investors Bancorp Inc
+SFBS,Servisfirst Bancshares Inc
+CTB,Cooper Tire And Rubber
+RCM,R1 Rcm Inc
+UPWK,Upwork Inc
+SRNE,Sorrento Therapeutics Inc
+TEX,Terex Corp
+CATY,Cathay General Bancorp
+AVNS,Avanos Medical Inc
+KFY,Korn Ferry
+MDRX,Allscripts Healthcare Solutions In
+SMPL,The Simply Good Foods Company
+YEXT,Yext Inc
+MAXR,Maxar Technologies Inc
+FULT,Fulton Financial Corp
+HCSG,Healthcare Services Inc
+CARG,Cargurus Inc Class A
+BGS,B And G Foods Inc
+MXL,Maxlinear Inc
+MTOR,Meritor Inc
+DEA,Easterly Government Properties Inc
+SHO,Sunstone Hotel Investors Reit Inc
+NAVI,Navient Corp
+PBH,Prestige Consumer Healthcare Inc
+INO,Inovio Pharmaceuticals Inc
+MWA,Mueller Water Products Inc Series
+PRGS,Progress Software Corp
+SANM,Sanmina Corp
+CVLT,Commvault Systems Inc
+PRAA,Pra Group Inc
+EGHT,8X8 Inc
+EPRT,Essential Properties Realty Trust
+PEB,Pebblebrook Hotel Trust Reit
+WAFD,Washington Federal Inc
+URBN,Urban Outfitters Inc
+KW,Kennedy Wilson Holdings Inc
+ATSG,Air Transport Services Group Inc
+CTRE,Caretrust Reit Inc
+UCBI,United Community Banks Inc
+CORT,Corcept Therapeutics Inc
+OI,O I Glass Inc
+OPK,Opko Health Inc
+ATRC,Atricure Inc
+COOP,Mr Cooper Group Inc
+MTSI,Macom Technology Solutions Inc
+ITCI,Intra Cellular Therapies Inc
+FIT,Fitbit Inc Class A
+FLR,Fluor Corp
+CIM,Chimera Investment Corp
+KTB,Kontoor Brands Inc
+MLI,Mueller Industries Inc
+PDM,Piedmont Office Realty Trust Reit
+TWNK,Hostess Brands Inc Class A
+OTTR,Otter Tail Corp
+ONTO,Onto Innovation Inc
+LILAK,Liberty Latin America Ltd Class C
+AX,Axos Financial Inc
+WSBC,Wesbanco Inc
+SKYW,Skywest Inc
+HTH,Hilltop Holdings Inc
+RMBS,Rambus Inc
+LZB,La-Z-Boy Inc
+JELD,Jeld Wen Holding Inc
+PMT,Pennymac Mortgage Investment Trust
+NTCT,Netscout Systems Inc
+WSFS,Wsfs Financial Corp
+SAVE,Spirit Airlines Inc
+CHX,Championx Corp
+RNST,Renasant Corp
+LTHM,Livent Corp
+BLMN,Bloomin Brands Inc
+RCII,Rent-A-Center Inc
+WRE,Washington Real Estate Investment
+HNI,Hni Corp
+FIBK,First Interstate Bancsystem Inc Cl
+IBOC,International Bancshares Corp
+BDC,Belden Inc
+AVYA,Avaya Holdings Corp
+KURA,Kura Oncology Inc
+OMI,Owens & Minor Inc
+CFFN,Capitol Federal Financial Inc
+EPC,Edgewell Personal Care
+HMN,Horace Mann Educators Corp
+THRM,Gentherm Inc
+TRMK,Trustmark Corp
+RVMD,Revolution Medicines Inc
+CLNY,Colony Capital Inc Class A
+CADE,Cadence Bancorporation Class A
+BCC,Boise Cascade
+IRWD,Ironwood Pharma Inc Class A
+MCRB,Seres Therapeutics Inc
+YELP,Yelp Inc
+RUSHA,Rush Enterprises Inc Class A
+RVNC,Revance Therapeutics Inc
+FBP,First Bancorp
+MNRO,Monro Inc
+BE,Bloom Energy Class A Corp
+UFS,Domtar Corp
+CSII,Cardiovascular Systems Inc
+LAUR,Laureate Education Inc Class A
+RLJ,Rlj Lodging Trust Reit
+CYRX,Cryoport Inc
+AXNX,Axonics Modulation Technologies In
+FFBC,First Financial Bancorp
+PRFT,Perficient Inc
+CENTA,Central Garden And Pet Class A
+IMVT,Immunovant Inc
+INT,World Fuel Services Corp
+TWO,Two Harbors Investment Reit Corp
+FMBI,First Midwest Bancorp Inc
+HRTX,Heron Therapeutics Inc
+KN,Knowles Corp
+NWN,Northwest Natural Holding Company
+ATGE,Adtalem Global Education Inc
+ILPT,Industrial Logistics Properties Tr
+VGR,Vector Group Ltd
+FRME,First Merchants Corp
+BEAT,Biotelemetry Inc
+NTB,Bank Of Nt Butterfield & Son Ltd
+RPAY,Repay Holdings Corp Class A
+GNL,Global Net Lease Inc
+NOVA,Sunnova Energy International Inc
+SYKE,Sykes Enterprises Inc
+CAKE,Cheesecake Factory Inc
+VRRM,Verra Mobility Corp Class A
+MNR,Monmouth Real Estate Investment Re
+EGOV,Nic Inc
+NSTG,Nanostring Technologies Inc
+FBC,Flagstar Bancorp Inc
+SVC,Service Properties Trust
+CALX,Calix Networks Inc
+LTC,Ltc Properties Reit Inc
+HLIO,Helios Technologies Inc
+SKY,Skyline Champion Corp
